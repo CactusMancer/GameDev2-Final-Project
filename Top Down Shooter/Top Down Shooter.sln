@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top Down Shooter", "Top Down Shooter.csproj", "{E7E4161D-5311-5008-D29E-C1D8A13395FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top Down Shooter.Editor", "Top Down Shooter.Editor.csproj", "{168D8211-7AC1-E301-A21D-1D276755BE79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7E4161D-5311-5008-D29E-C1D8A13395FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E4161D-5311-5008-D29E-C1D8A13395FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E4161D-5311-5008-D29E-C1D8A13395FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E4161D-5311-5008-D29E-C1D8A13395FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168D8211-7AC1-E301-A21D-1D276755BE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168D8211-7AC1-E301-A21D-1D276755BE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168D8211-7AC1-E301-A21D-1D276755BE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168D8211-7AC1-E301-A21D-1D276755BE79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
